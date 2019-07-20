@@ -1,0 +1,155 @@
+body {
+	font-family: 'arial' !important;
+}
+
+.logo h3{
+	color: #18374b;
+}
+
+.logo {
+	border-bottom: 1px solid black;
+}
+
+.underLogo h2 {
+	color: #ff621f;
+}
+
+.tenSteps h3 {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+.reserved {
+	transition: .3s;
+}
+
+.reserved:active {
+	-webkit-transform: scale(0.98);
+	-ms-transform: scale(0.98);
+	-o-transform: scale(0.98);
+	transform: scale(0.98);
+}
+
+.aboutPerson, .aboutPerson2 {
+	color: #fff;
+	background: #ff621f;
+	padding-bottom: 100px;
+}
+
+.namePerson p {
+	font-style: italic;
+}
+
+.timeMSK {
+	font-size: 1.4em;
+	font-weight: 300;
+}
+
+
+.moreInfo {
+	background: #eaeaea;
+}
+
+
+#counter span:not(:last-child) {
+	margin-right: 8px;
+}
+
+#counter span {
+	display: inline-block;
+	font-size: 1.9em;
+	color: #fff;
+	background: #2b2e35;
+	padding: 10px;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+.startTrans {
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+.lessPart {
+	font-size: 1.25em;
+	font-weight: 900;
+	margin-bottom: 50px;
+}
+
+.textCounter{
+	font-weight: bold;
+	font-size: 0.9em;
+	word-spacing: 8px;
+}
+
+.aboutList ul {
+	list-style-image: url(..//images/simbol.png);
+}
+
+.aboutList li {
+	font-size: 1.2em;
+	font-weight: 500;
+}
+
+.format {
+	font-style: italic;
+	font-weight: 400;
+	font-size: 1.2em;
+}
+
+.format span {
+	font-size: 1.2em;
+	font-weight: 500;
+}
+
+.forWhom {
+	font-size: 1.8em;
+	font-weight: 500;
+	border-bottom: 1px dashed #000;
+	padding-bottom: 30px;
+}
+
+#mainInfo {
+	background: url(..//images/rectangle.png) no-repeat top center/cover;
+}
+
+.techno {
+	font-weight: 900;
+	font-size: 1.6em;
+}
+
+.plist p {
+	font-weight: 500;
+	margin-bottom: 25px;
+}
+
+.boldText {
+	font-weight: 900;
+}
+
+#collage {
+	background: url(..//images/polygon.png) no-repeat top center/cover;
+}
+
+footer h4 {
+	font-weight: 700;
+}
+
+.order {
+	transition: .2s;
+}
+
+.order:active {
+	-webkit-transform: scale(0.99);
+	-ms-transform: scale(0.99);
+	-o-transform: scale(0.99);
+	transform: scale(0.99);
+}
+
+.social a:hover {
+	text-decoration: none;
+}
+
+.aboutPerson2 {
+	display: none;
+}
